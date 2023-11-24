@@ -43,3 +43,37 @@ a {
 li {
     display: inline-block;
 }
+
+h1 {
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+
+.hero {
+    background-color: #1F2937;
+    padding-right: 200px;
+    padding-left: 200px;
+}
+
+p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.hero-content {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 400px;
+}
+
+button {
+    width: 75px;
+    background-color:#3882F6;
+    border-radius: 5px;
+    display: inline-block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
